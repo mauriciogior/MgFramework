@@ -1,0 +1,9 @@
+<mgdbo>
+	<configuration>
+		<type>mysql</type>
+		<host>localhost</host>
+		<login>root</login>
+		<password></password>
+		<database>test</database>
+	</configuration>
+</mgdbo>
